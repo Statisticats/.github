@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1QXDEs7DNXN20suQus/giphy.gif" width="300"/>
+  <p> ini nanti diganti banner ya gais </p>
   <p align='center'>
     <a href="https://www.instagram.com/statisticat.co/"><img height="50" src="https://github.com/Statisticats/Icon/blob/main/Instagram-Logo.wine.png?raw=true"></a>&nbsp;&nbsp;
   </p>
@@ -19,7 +20,7 @@
 
 ### About Us
 
-We're data enthusiast with statistics and data science academic background. We're interested in the field of data analysist, data visualization, and machine learning.
+We're data enthusiast with statistics and data science academic background. We're interested in the field of data analysist, data visualization, and machine learning. Tambah apa lagi kata2nya ga tau wkwk..
 
  ---
 

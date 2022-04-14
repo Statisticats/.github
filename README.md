@@ -15,7 +15,7 @@
 </div>
 
 <p>
-  <img width="150" align='left' src="https://github.com/Statisticats/Icon/blob/main/stat1.png?raw=true">
+  <img width="150" align='left' src="https://github.com/Statisticats/Icon/blob/main/Instagram%20post%20-%201%20(2).png?raw=true">
 </p>
 
 ### About Us

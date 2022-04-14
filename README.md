@@ -12,3 +12,11 @@
     <img src="https://media.giphy.com/media/EUNEHOZhspZRu/giphy.gif" width="40px"/>
   </h2>
 </div>
+
+<p>
+  <img width="250" align='left' src="https://github.com/Statisticats/Icon/blob/main/stat1.png?raw=true">
+</p>
+
+### About Us
+
+We're data enthusiast with statistics and data science academic background. We're interested in the field of data analysist, data visualization, and machine learning.

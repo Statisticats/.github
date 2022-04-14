@@ -27,12 +27,12 @@ We're data enthusiast with statistics and data science academic background. We'r
   <img width="250" align='right' src=https://github.com/Statisticats/Icon/blob/main/stat2.jpg?raw=true">
 </p>
 
-### What will we do?
+### What we do
 
 We want to do an in-depth analysis of a certain topic and provide useful information based on the results of the analysis. We also like to share about the procedure of the analysis that we applied on each project. Other than that we like to give you guys other knowledge related to statistics and data science.
                                                                                                        
  ---
 
-<h2>
-    See our work on Instagram <a href="https://www.instagram.com/statisticat.co/"><img height="50" src="https://github.com/Statisticats/Icon/blob/main/Instagram-Logo.wine.png?raw=true"></a>&nbsp;&nbsp;
-</h2>
+<h3>
+    Check our work on Instagram!! <a href="https://www.instagram.com/statisticat.co/"><img height="30" src="https://github.com/Statisticats/Icon/blob/main/Instagram-Logo.wine.png?raw=true"></a>&nbsp;&nbsp;
+</h3>

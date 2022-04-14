@@ -20,7 +20,7 @@
 
 ### About Us
 
-We're data enthusiast with statistics and data science academic background. We're interested in the field of data analysist, data visualization, and machine learning. Tambah apa lagi kata2nya ga tau wkwk..
+We're data enthusiast with statistics and data science academic background. We're interested in the field of data analysis, data visualization, and machine learning. Tambah apa lagi kata2nya ga tau wkwk..
 
  ---
 

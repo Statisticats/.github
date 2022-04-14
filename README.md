@@ -14,9 +14,19 @@
 </div>
 
 <p>
-  <img width="250" align='left' src="https://github.com/Statisticats/Icon/blob/main/stat1.png?raw=true">
+  <img width="150" align='left' src="https://github.com/Statisticats/Icon/blob/main/stat1.png?raw=true">
 </p>
 
 ### About Us
 
 We're data enthusiast with statistics and data science academic background. We're interested in the field of data analysist, data visualization, and machine learning.
+
+ ---
+
+<p>
+  <img width="150" align='right' src=https://github.com/Statisticats/Icon/blob/main/stat2.jpg?raw=true">
+</p>
+
+### What will we do?
+
+We want to do an in-depth analysis of a certain topic and provide useful information based on the results of the analysis. We also like to share about the procedure of the analysis that we applied on each project. Other than that we like to give you guys other knowledge related to statistics and data science.

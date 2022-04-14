@@ -34,6 +34,8 @@ We want to do an in-depth analysis of a certain topic and provide useful informa
                                                                                                        
  ---
 
+[Latest Post 👉]https://github.com/Statisticats/latest)                                                                                                      
+                                                                                                       
 <h3>
     Check our work on Instagram!! <a href="https://www.instagram.com/statisticat.co/"><img height="30" src="https://github.com/Statisticats/Icon/blob/main/Instagram-Logo.wine.png?raw=true"></a>&nbsp;&nbsp;
 </h3>

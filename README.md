@@ -15,7 +15,7 @@
 </div>
 
 <p>
-  <img width="150" align='left' src="https://github.com/Statisticats/Icon/blob/main/Logo%20big.png?raw=true">
+  <img width="100" align='left' src="https://github.com/Statisticats/Icon/blob/main/Logo%20big.png?raw=true">
 </p>
 
 ### About Us

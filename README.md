@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1QXDEs7DNXN20suQus/giphy.gif" width="300"/>
+  <img src="https://github.com/Statisticats/Icon/blob/main/header%20github%20(1).png" width="300"/>
   <p> ini nanti diganti banner ya gais </p>
   <p align='center'>
     <a href="https://www.instagram.com/statisticats.co/"><img height="40" src="https://github.com/Statisticats/Icon/blob/main/ig2.png?raw=true"></a>&nbsp;&nbsp;

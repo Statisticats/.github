@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/Statisticats/Icon/blob/main/header%20github%20(1).png" width="300"/>
-  <p> ini nanti diganti banner ya gais </p>
+  <img src="https://github.com/Statisticats/Icon/blob/main/header%20github%20(1).png" width="1000"/>
   <p align='center'>
     <a href="https://www.instagram.com/statisticats.co/"><img height="40" src="https://github.com/Statisticats/Icon/blob/main/ig2.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="	https://medium.com/@statisticats/"><img height="40" src="https://github.com/Statisticats/Icon/blob/main/medium.png?raw=true"></a>&nbsp;&nbsp;
   </p>
   <h1>
     hey there
